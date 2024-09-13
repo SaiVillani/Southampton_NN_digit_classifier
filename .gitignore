@@ -1,2 +1,5 @@
 #ignore the virual environment
 env/
+
+#ignore the raw mnist data
+data/
