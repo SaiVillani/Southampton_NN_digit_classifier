@@ -2,9 +2,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-class NoisyDigitClassifier(nn.Module):
+class skeptic_v3(nn.Module):
     def __init__(self):
-        super(NoisyDigitClassifier, self).__init__()
+        super(skeptic_v3, self).__init__()
         self.conv1 = nn.Conv2d(1, 32, 3, padding=1)
         self.conv2 = nn.Conv2d(32, 64, 3, padding=1)
         self.conv3 = nn.Conv2d(64, 64, 3, padding=1)
