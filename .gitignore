@@ -7,3 +7,5 @@ data/
 #ignore the raw files for training data
 training_data/
 training_data/
+training_data.zip
+
