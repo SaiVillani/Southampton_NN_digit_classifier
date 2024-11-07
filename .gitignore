@@ -9,3 +9,14 @@ training_data/
 training_data/
 training_data.zip
 
+composite_image_folders/
+composite_images/
+cursive_digit_images/
+experiment_results_participant20/
+imperfect_digit_images/
+failed_Models_archive/
+pilot_data/
+rotated_digit_images/
+
+
+
